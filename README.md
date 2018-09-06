@@ -13,7 +13,7 @@ layer {
   top: "loss"
   bin_loss_param {
     key: 20
-	lambda: 1
+    lambda: 1
   }
 }
 ```
